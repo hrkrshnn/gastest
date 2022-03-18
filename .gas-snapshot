@@ -1,4 +1,4 @@
-ContractTest:testExample() (gas: 257)
-ContractTest:testa() (gas: 63027)
-ContractTest:testb() (gas: 65642)
-ContractTest:testc() (gas: 61049)
+ContractTest:testExample() (gas: 221)
+ContractTest:testa() (gas: 59879)
+ContractTest:testb() (gas: 63583)
+ContractTest:testc() (gas: 61615)
